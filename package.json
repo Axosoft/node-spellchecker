@@ -1,8 +1,8 @@
 {
   "main": "./lib/spellchecker.js",
-  "name": "@felixrieseberg/spellchecker",
+  "name": "@axosoft/spellchecker",
   "description": "Bindings to native spellchecker",
-  "version": "4.0.12",
+  "version": "4.0.13",
   "licenses": [
     {
       "type": "MIT",
